@@ -1,0 +1,1 @@
+INSERT INTO accounts_user VALUES(10,'pbkdf2_sha256$600000$W8Dfob1XOY1s7JStvh4F2d$CJt0Rs4pegffbwuwnLKfVNDisogD1W9EfeaxohbUQsQ=','2023-11-18 11:09:25.553523',true,'akaiii','akaiii','akaiii',true,true,'2023-11-18 11:05:15.230558','abcde@gmail.com');
